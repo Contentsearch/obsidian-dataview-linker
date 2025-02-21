@@ -1,0 +1,10 @@
+{
+  "id": "dataview-linker",
+  "name": "Dataview Linker",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.9",
+  "description": "Automatically append the content of a dataview block to the next paragraph.",
+  "author": "iPhase2",
+  "authorUrl": "https://github.com/Contentsearch",
+  "isDesktopOnly": true
+}
